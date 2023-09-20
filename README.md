@@ -84,7 +84,7 @@
 ###
 
 <div align="center">
-<img src="Front/src/assets/img3.jpg
+<img src="/Users/ssd128/Documents/That_Is_The_Question/Front/src/assets/Img-Dashboard/smoothie.jpg"
     > 
 </div>
 
