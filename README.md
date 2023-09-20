@@ -84,7 +84,7 @@
 ###
 
 <div align="center">
-<img src="/Users/ssd128/Documents/That_Is_The_Question/Front/src/assets/Img-Dashboard/smoothie.jpg"
+<img src="https://cdn.pixabay.com/photo/2018/03/02/18/56/digital-art-3193935_1280.jpg"
     > 
 </div>
 
