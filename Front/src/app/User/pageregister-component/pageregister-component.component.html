@@ -1,0 +1,42 @@
+<div class="container " id="/register">
+  <div class="row justify-content-center">
+    <div class="col-md-8 col-lg-6">
+      
+
+      <form  (ngSubmit)="register()">
+        <div class="form-group obligatory">
+          <label for="form__username">Your user name </label>
+          <input type="text" class="form-control" name="username" id="form__username" placeholder="Choose a username" [(ngModel)]="username" required>
+        </div>
+
+        <div class="form-group obligatory">
+          <label for="form__email">Enter your email </label>
+          <input type="email" class="form-control" name="email" id="form__email" placeholder="Enter your email" [(ngModel)]="email" required>
+        </div>
+
+        <div class="form-group obligatory">
+          <label for="form__password">Enter your password </label>
+          <input type="password" class="form-control" name="password" id="form__password" placeholder="Enter your password" [(ngModel)]="password" required>
+        </div>
+
+        <div class="form-group obligatory">
+          <label for="form__confirm-password">Confirm your password </label>
+          <input type="password" class="form-control" name="confirm-password" id="form__confirm-password" placeholder="Confirm password" [(ngModel)]="confirmPassword" required>
+        </div>
+
+        <div class="obligatoryinputs text-center mb-4">
+          <p>All inputs are obligatory *</p>
+        </div>
+
+        <div class="form-group error-message" *ngIf="errorMessage">
+          {{ errorMessage }}
+        </div>
+
+        <div class="form-group text-center btn-group-centered">
+          <button type="submit" class="btn btn-info mt-3">Register</button>
+          <button routerLink="/login" type="button" class="btn btn-warning mt-3">Back</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
