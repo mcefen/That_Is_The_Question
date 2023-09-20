@@ -95,8 +95,7 @@
 ###
 
 <div align="center">
-  <img  src="[
-](https://cdn.pixabay.com/photo/2022/06/16/12/19/ai-7265839_1280.jpg)"    >
+  <img  src="https://cdn.pixabay.com/photo/2022/06/16/12/19/ai-7265839_1280.jpg"    >
 </div>
 
 ###
