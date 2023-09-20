@@ -84,7 +84,7 @@
 ###
 
 <div align="center">
-  ![stress-2902537_640](https://github.com/mcefen/That_Is_The_Question/assets/25710748/deee2f9f-c0ca-4ea2-996c-3f1fd13e0879)
+  /Users/ssd128/Documents/That_Is_The_Question/Front/src/assets/Img-Dashboard/stress.jpg
 
 </div>
 
