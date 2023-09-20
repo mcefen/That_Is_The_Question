@@ -84,7 +84,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="./assets/Img-Dashboard/stress.jpg"  />
+  <img  src="./assets/Img-Dashboard/stress.jpg">
 </div>
 
 ###
@@ -94,7 +94,8 @@
 ###
 
 <div align="center">
-  <img height="200" src="./assets/Img-Dashboard/meditate.jpg"  />
+  <img  src="./assets/Img-Dashboard/meditate.jpg"
+    >
 </div>
 
 ###
