@@ -23,7 +23,7 @@
 
 <br clear="both">
 
-<h2 align="center">Make remote work</h2>
+<h2 align="center">ALL TOOLS USED</h2>
 
 ###
 
@@ -84,7 +84,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="./assets/Img-Dashboard/stress.jpg"  />
 </div>
 
 ###
@@ -94,7 +94,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="./assets/Img-Dashboard/meditate.jpg"  />
 </div>
 
 ###
