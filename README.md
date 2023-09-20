@@ -84,7 +84,7 @@
 ###
 
 <div align="center">
-<img src="/assets/Img-Dashboard/stress.jpg"
+<img src="[/assets/Img-Dashboard/stress.jpg](https://github.com/mcefen/That_Is_The_Question/tree/main/Front#:~:text=aire.-,png,-caba%C3%B1a.jpg)"
     > 
 </div>
 
